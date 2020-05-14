@@ -192,3 +192,8 @@ redirects:
 
 - from: /sms-receiver-api-announcement
   to: /web-otp
+
+# Redirect blog entry to media section
+
+- from: /media-session
+  to: /media/media-controls
